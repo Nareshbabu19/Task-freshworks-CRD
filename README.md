@@ -19,4 +19,5 @@ The client will bear as little memory costs as possible to use this data store, 
 Environment Setup
 
 Operating System : WINDOWS 10
+
 Programming Language: Python
